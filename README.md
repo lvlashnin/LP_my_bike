@@ -1,8 +1,8 @@
-🚴My Bike Landing Page
+<h1>🚴 My Bike Landing Page 🚴</h1>
 
 A modern and responsive single-page landing website built to practice front-end development, clean layouts, and workflow automation.
 
-This project demonstrates:
+<h2>This project demonstrates:</h2>
 
 Writing semantic HTML and modular SCSS.
 
@@ -12,14 +12,14 @@ Automating the workflow with Gulp (compilation, optimization, live reload).
 
 Maintaining code quality with linters and best practices.
 
-🔗 Live Demo
+<h2>🔗 Live Demo</h2>
 
 [🌐 Live Preview](https://lvlashnin.github.io/LP_my_bike/)
 – hosted on GitHub Pages
 
 [🎨 Figma Design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=dPwsXinFiJheQGxI-0)
 
-✨ Features
+<h2>✨ Features</h2>
 
 Responsive Design – adaptive layouts for any device.
 
@@ -29,7 +29,7 @@ Automated Workflow – SCSS compilation, file watching, minification, and auto-r
 
 Code Quality Tools – ESLint & Stylelint for consistent formatting and bug prevention.
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 Category Technology Purpose
 Frontend HTML5 Semantic and accessible markup
 SCSS Preprocessor for modular CSS
@@ -37,7 +37,7 @@ Build Tools Gulp Task runner for automation
 ESLint / Stylelint Enforce code style & quality
 Deployment GitHub Pages Hosting the static site
 
-📦 Getting Started
+<h2>📦 Getting Started</h2>
 Prerequisites
 
 Make sure you have installed:
@@ -64,7 +64,7 @@ npm install
 
 npm start
 
-🚀 Future Improvements
+<h2>🚀 Future Improvements</h2>
 
 Add smooth scrolling animations.
 
@@ -74,7 +74,7 @@ Optimize images with WebP.
 
 Expand design with extra sections (FAQ, Testimonials).
 
-Author
+<h2>Author</h2>
 
 Serhii Mashnin
 
