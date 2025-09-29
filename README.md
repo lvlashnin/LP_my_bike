@@ -1,4 +1,4 @@
-🚴My Bike Landing Page
+🚴<h1>My Bike Landing Page</h1>
 
 A modern and responsive single-page landing website built to practice front-end development, clean layouts, and workflow automation.
 
